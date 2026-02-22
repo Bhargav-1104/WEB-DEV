@@ -38,4 +38,3 @@ const dictionary = {
 }
 
 console.log(dictionary.manifest);
-
