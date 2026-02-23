@@ -7,4 +7,5 @@ function multi(a, b) {
 function div(a, b) {
   return a / b;
 }
+
 setTimeout(sum(1, 3), 3 * 1000);
